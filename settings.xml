@@ -1,0 +1,20 @@
+<settings>
+<setting id="nm.wifi.address" value="192.168.1.101" />
+<setting id="nm.wifi.dns" value="192.168.1.1" />
+<setting id="nm.wifi.gateway" value="192.168.1.1" />
+<setting id="nm.wifi.netmask" value="255.255.255.0" />
+<setting id="nm.wifi.dhcp" value="true" />
+<setting id="nm.wifi.search" value="local" />
+<setting id="nm.address" value="192.168.1.101" />
+<setting id="nm.dns" value="192.168.1.1" />
+<setting id="nm.gateway" value="192.168.1.1" />
+<setting id="nm.netmask" value="255.255.255.0" />
+<setting id="nm.dhcp" value="true" />
+<setting id="nm.search" value="local" />
+<setting id="nm.wifi.adhoc" value="false" />
+<setting id="nm.wifi.5GOnly" value="false" />
+<setting id="nm.wifi.ssid" value="ComHemBB1BD1-5G" />
+<setting id="nm.wifi.security" value="4" />
+<setting id="nm.wifi.key" value="g5ks9fsp" />
+<setting id="nm.uid.enable" value="true" />
+</settings>

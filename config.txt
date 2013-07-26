@@ -1,0 +1,15 @@
+arm_freq=840
+core_freq=350
+gpu_freq=253
+force_turbo=1
+#disable_overscan=1
+gpu_mem=128
+start_file=start_x.elf
+fixup_file=fixup_x.dat
+
+#SANTI
+hdmi_force_edid_audio=1
+hdmi_ignore_cec_init=1
+framebuffer_width=1024
+framebuffer_height=768
+
